@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# budget-calcaulator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my third react project. It is a budget calculator that takes in the charge and the amount and outputs the total spending. You can edit payments and delete payments too.
+
+I have started getting used to CRUD and am improving my knowledge on JS functions and useState.
+I still need to do more projects and get familiar with JS and React
 
 ## Available Scripts
 
