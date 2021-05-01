@@ -5,6 +5,8 @@ This is my third react project. It is a budget calculator that takes in the char
 I have started getting used to CRUD and am improving my knowledge on JS functions and useState.
 I still need to do more projects and get familiar with JS and React
 
+Project was completed with the aid of the tutorial: https://www.youtube.com/watch?v=f6HYLHrYpGs
+
 ## Available Scripts
 
 In the project directory, you can run:
